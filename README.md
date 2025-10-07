@@ -89,6 +89,3 @@ This project is intended for **educational & research purposes only**.
 📫 Contact: **[gowithamanraj@gmail.com](mailto:gowithamanraj@gmail.com)** for collaborations.
 📎 Please do not redistribute commercially without permission.
 
----
-
-Do you want me to also **add a “Peer Comparison” section with Ultratech, Ambuja, ACC, etc.** (since that data was in your report), or keep it compact like the GCPL one?
