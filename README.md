@@ -1,8 +1,3 @@
-# SHREECEM-FinancialModel-EquityResearch
-Here’s a **sample project/repo description for Shree Cement** (in the same style as your GCPL one, with emojis and formatted sections):
-
----
-
 # 🏗️ Shree Cement Financial Model & Equity Research Report 📊
 
 **Shree Cement Ltd. (NSE: SHREECEM | BSE: 500387 | ISIN: INE070A01015)**
